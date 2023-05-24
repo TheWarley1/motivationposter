@@ -1,0 +1,27 @@
+*{
+    background-color: black;
+    
+}
+img{
+    border: solid white 5px;
+    width: 100%;
+}
+
+h1{
+    color: white;
+    font-family: 'Outfit', sans-serif;
+    font-size: 3rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p{
+    color: white;
+    text-align: center;
+}
+
+.box{
+    width: 50%;
+    margin-top: 5%;
+    margin-left: 25%;
+}
